@@ -1,6 +1,6 @@
 ## Hi, I'm Joe. 👋 He/him.
 
-I'm a Research Software Engineer, Computational Glaciologist, Climate Scientist, and Adventurer living/playing in Alaska :snowman:. 
+I'm a Staff Scientist at the Alaska Satellite Facility, a Computational Glaciologist, a Climate Scientist, and an Adventurer living/playing in Alaska :snowman:. 
 
 I develop (primarily) python-based, open-source scientific software and focus on scientific workflows that scale from laptops to HPCs or the Cloud. 
 
